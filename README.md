@@ -15,9 +15,9 @@ Using Django REST frame work please implement the followings
 
 3- validation to rate min 1 and max 5
 
-4- CRUD API for Products http://127.0.0.1:8000/api/meals it should return the average rating and number of rating a long with the product name and detail
+4- CRUD API for Products http://127.0.0.1:8000/api/product/ it should return the average rating and number of rating a long with the product name and detail
 
-5- CRUD API for Stars http://127.0.0.1:8000/api/stars no one should be able to use this crud for rating !!
+5- CRUD API for Stars http://127.0.0.1:8000/api/rating/ no one should be able to use this crud for rating !!
 
 6- Rate API http://127.0.0.1:8000/api/meals/meal_pk/rate_meal create and update API
 
